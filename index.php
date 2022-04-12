@@ -15,9 +15,9 @@
         
         <div class="row justify-content-center mt-1">
         <div class="col-lg-6">
-			<p>Nama: Rafael Nuansa R</p>
-			<p>Nim : i.2111727</p>
+		<h2>Form Pilih Wilayah</h2>
         </div>
+
         </div>
         <div class="row justify-content-center mt-2">
             <div class="col-lg-6">
