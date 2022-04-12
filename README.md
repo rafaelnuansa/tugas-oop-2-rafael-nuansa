@@ -9,4 +9,4 @@ Nama : Rafael Nuansa Ramadhon
 https://github.com/rafaelnuansa/tugas-oop-2-rafael-nuansa/blob/master/erd/Tugas%20OOP2%20ERD.drawio
 
 # ERD Image
-![erd image](https://github.com/rafaelnuansa/tugas-oop-2-rafael-nuansa/blob/master/erd/img.drawio.png?raw=true)
+![erd image](https://github.com/rafaelnuansa/tugas-oop-2-rafael-nuansa/blob/master/erd/image,drawio.png?raw=true)
