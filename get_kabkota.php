@@ -1,6 +1,6 @@
 <?php 
 // Mengkaitkan koneksi
-include 'koneksi.php';
+include 'config/koneksi.php';
 
 // Membuat variabel dari Request Post 
 $data = $_POST['data'];
