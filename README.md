@@ -5,5 +5,5 @@ Untuk database ada di folder database atau di https://github.com/rafaelnuansa/tu
 # ERD Dengan Tools Draw.io
 https://github.com/rafaelnuansa/tugas-oop-2-rafael-nuansa/blob/master/erd/Tugas%20OOP2%20ERD.drawio
 
-# Screenshot
+# ERD Image
 ![erd image](https://github.com/rafaelnuansa/tugas-oop-2-rafael-nuansa/blob/master/erd/Tugas%20OOP2%20ERD.drawio.png?raw=true)
